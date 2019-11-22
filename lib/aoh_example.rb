@@ -22,9 +22,6 @@ def literal_aoh
     KATE_G,
     BRUCE_G
     ]
-  
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # held in the constants
 end
 
 def aoh_lookup(aoh, row, key)
